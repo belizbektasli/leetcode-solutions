@@ -1,3 +1,4 @@
+#This piece of code returns a new array whose each element is the sum of the previous elements in the given array.
 class Solution(object):
     def runningSum(self, nums):
         """
